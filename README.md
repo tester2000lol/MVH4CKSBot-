@@ -16,5 +16,5 @@ Much thanks to: the original creators of the original bot at brokenbot.org, game
 Original source from which this is modified (project originally started at gamebot.org):
 Modification of v5.8 of bot originally available from http://clashbot.org/forums/index.php?/topic/1010-flawless-clashbot-release-58-recommended/
 
-----------
 Clash of Clans is a Registered Trademark of SuperCell. This project is not affiliated with SuperCell or any of its affiliates in any way. Project is available without warranty express or implied.
+
